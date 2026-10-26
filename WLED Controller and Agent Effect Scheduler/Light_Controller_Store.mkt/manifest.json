@@ -1,0 +1,22 @@
+[ {
+  "blockSetVersionId" : "5488183f-ca29-465b-852e-89d0a904f76d",
+  "blockSetVersion" : "0.1.0",
+  "titleAndDescription" : {
+    "localizedTitle" : { },
+    "localizedDescription" : { },
+    "fallbackTitle" : "Light Controller - WLED",
+    "fallbackDescription" : "Control your WLED lights from anywhere in the world! Leverage AI agents for automating holiday detection and effect generation!"
+  },
+  "mavenProductId" : null,
+  "mavenCoordinateDependencies" : [ ],
+  "marketplaceProductDependencies" : [ ],
+  "envelope" : {
+    "type" : "application/vnd.in-toto+json",
+    "payload" : "eyJfdHlwZSI6Imh0dHBzOi8vaW4tdG90by5pby9TdGF0ZW1lbnQvdjEiLCJwcmVkaWNhdGUiOnsiYnlwcm9kdWN0cyI6bnVsbCwiY29tbWFuZCI6W10sImVudmlyb25tZW50IjpudWxsLCJtYXRlcmlhbHMiOltdLCJuYW1lIjoicHJvdmVuYW5jZSJ9LCJwcmVkaWNhdGVUeXBlIjoiaHR0cHM6Ly9pbi10b3RvLmlvL2F0dGVzdGF0aW9uL2xpbmsvdjAuMyIsInN1YmplY3QiOlt7ImFubm90YXRpb25zIjpudWxsLCJjb250ZW50IjpudWxsLCJkaWdlc3QiOnsic2hhMjU2IjoiNzM3MGM3Y2Y5YTdkNWE1Yjg0NjQxYjBlODJhMDI3NTFjZWY4NmE2MTIyMjRjZjdiYzk3NjRlNDgzODFlMGEzZCJ9LCJkb3dubG9hZExvY2F0aW9uIjpudWxsLCJtZWRpYVR5cGUiOm51bGwsIm5hbWUiOiI1NDg4MTgzZi1jYTI5LTQ2NWItODUyZS04OWQwYTkwNGY3NmQiLCJ1cmkiOm51bGx9XX0=",
+    "signatures" : [ {
+      "keyId" : "b00ac5173d445d2a95023c6420afdf457dd7868b6d8fee5f8bf1bd2404c509d5",
+      "signature" : "Awf/Wu54raYSITRVzTQQ8vZHv/RkqFCFLNIfySC/6FaBUxmXHCVz3dxkM67cenEzh0uKWyOKKgiXm2HdlTKJhbttBBD9ayfIAInXHyK/iFhY4X/2/cOVMC4/YVJihqHuKyL0d2uQeY05Uja0ZWIx2ZZ0DW3gugDUEeqvdXUc3rhoom2Y1SlT/pHE1prdBZ855s2g4M9yGsH0W5OkpkF7ZGTGn/eS9KE9FgQe64DSZwg74+mlKpARjKSDA4t32g70VNL8z2BypiTsAWsyA1K8TKj37DfAc0opC5KqHXVOA0YaKGIplJhGuow84Wcmz3dnFMlIuzC+etdFuuaIryTRRA=="
+    } ]
+  },
+  "blockSetId" : "b04e6b6a-1ebe-4bdd-84df-607d1f9a3ef8"
+} ]
